@@ -1,1 +1,2 @@
 local test file which need to be updated to remote repo
+THIS IS THE TEST COMMIT AFTER PUSHING THE FILE FROM LOCAL REPO TO REMOTE REPO
